@@ -15,6 +15,7 @@
 		18507CAD1E5D7B1200350923 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18507CAB1E5D7B1200350923 /* LaunchScreen.storyboard */; };
 		18507CB81E5D7B1200350923 /* LYHSwiftDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18507CB71E5D7B1200350923 /* LYHSwiftDemoTests.swift */; };
 		18507CC31E5D7B1200350923 /* LYHSwiftDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18507CC21E5D7B1200350923 /* LYHSwiftDemoUITests.swift */; };
+		18507CD31E5D9CC000350923 /* BaseKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18507CD21E5D9CC000350923 /* BaseKit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18507CBE1E5D7B1200350923 /* LYHSwiftDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LYHSwiftDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18507CC21E5D7B1200350923 /* LYHSwiftDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LYHSwiftDemoUITests.swift; sourceTree = "<group>"; };
 		18507CC41E5D7B1200350923 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18507CD21E5D9CC000350923 /* BaseKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseKit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				18507CAB1E5D7B1200350923 /* LaunchScreen.storyboard */,
 				18507CAE1E5D7B1200350923 /* Info.plist */,
 				18507CA61E5D7B1200350923 /* LYHSwiftDemo.xcdatamodeld */,
+				18507CD21E5D9CC000350923 /* BaseKit.swift */,
 			);
 			path = LYHSwiftDemo;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				18507CA81E5D7B1200350923 /* LYHSwiftDemo.xcdatamodeld in Sources */,
 				18507CA21E5D7B1200350923 /* ViewController.swift in Sources */,
 				18507CA01E5D7B1200350923 /* AppDelegate.swift in Sources */,
+				18507CD31E5D9CC000350923 /* BaseKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
